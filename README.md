@@ -32,7 +32,6 @@ The project uses common data science tools and libraries:
 
 - Python
 - Pandas
-- NumPy
 - Scikit-learn
 - Matplotlib
 - Seaborn
