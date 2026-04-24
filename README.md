@@ -36,7 +36,7 @@ The project uses common data science tools and libraries:
 - Matplotlib
 - Seaborn
 
-# Methodology
+## Methodology
 
 The project follows a standard machine learning pipeline:
 
