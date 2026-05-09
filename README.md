@@ -7,6 +7,16 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logo=xgboost&logoColor=white)
 
+
+
+## Problem Statement
+
+Financial institutions face significant risk when issuing loans to borrowers. Some end up defaulting ,and are unable to pay back loan received.
+
+The objective of this project is to:
+
+- Assist financial institutions in making better lending decisions by implementing a credit scoring model.
+
 ## Project Overview 
 
 The **Credit Risk Scoring Model** is a machine learning system that predicts the likelihood that a borrower will default on a loan using historical financial data. It is widely used by financial institutions to evaluate loan applicants and minimise financial loss.
@@ -18,13 +28,6 @@ This project demonstrates the machine learning workflow, including:
 - Model training
 - Model evaluation
 
-## Problem Statement
-
-Financial institutions face significant risk when issuing loans to borrowers.
-
-The objective of this project is to:
-
-- Assist financial institutions in making better lending decisions
 
 ## Technologies Used
 
